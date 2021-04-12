@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/xterm-util-Marcelo-Perseus/__init__.py
+src/xterm-util-Marcelo-Perseus/xtermutil.py
+src/xterm_util_Marcelo_Perseus.egg-info/PKG-INFO
+src/xterm_util_Marcelo_Perseus.egg-info/SOURCES.txt
+src/xterm_util_Marcelo_Perseus.egg-info/dependency_links.txt
+src/xterm_util_Marcelo_Perseus.egg-info/top_level.txt
